@@ -1,8 +1,7 @@
 /*  your css code here. If applicable */
-section{
+div{
 	background-color:white;
-	display:inline-block
-	display:flex;
+	text-align:center;
 }
 header{
 	background-color:011e29;
